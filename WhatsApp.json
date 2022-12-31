@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "FaHaD WhatsApp v5.0.0",
-      "code": 00, 
+      "code": 01, 
       "url": "https://fahadwhatsapp.blogspot.com/",
       "changelog": "- Enable/Disable One Tap on Bubble - Enable/Disable Floating Entry - Fix Bug"
     }
